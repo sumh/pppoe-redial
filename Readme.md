@@ -10,7 +10,7 @@ npm install pppoe-redial
 
 ## Usage
 
-```
+```js
 const redial = require('pppoe-redial');
 
 redial().then(nip=>{
