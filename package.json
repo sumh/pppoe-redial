@@ -8,6 +8,10 @@
   },
   "author": "SumH",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sumh/pppoe-redial.git"
+  },
   "dependencies": {
     "public-ip": "^2.4.0",
     "shelljs": "^0.8.2"
