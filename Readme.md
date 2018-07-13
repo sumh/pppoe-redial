@@ -1,5 +1,5 @@
 # PPPoE Redial
-PPPoE/ADSL redial script ,need root privilege
+Ubuntu/Raspbian PPPoE/ADSL redial script ,need root privilege
 
 ## Install 
 
